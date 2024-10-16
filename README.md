@@ -6,7 +6,9 @@
 - execute mingw64.exe (This will open mingw shell)
 
 ## Execution
-``` python <full path for python_file.py> -i <full path for cppFile>
+- In the mingw shell runn  the following
+```python
+ python <full path for python_file.py> -i <full path for cppFile>
 ```
 (without .cpp extension)
 ## Output
